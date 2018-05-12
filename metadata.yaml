@@ -1,0 +1,28 @@
+_repo: '---_25231'
+_version: 0.1.0
+alternative_title: You Xian Ku
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zhang, Zhuo
+    aliases:
+    - 張鷟
+    - Zhang, Wencheng
+    gutenberg_agent_id: '31168'
+    url: http://www.gutenberg.org/2009/agents/31168
+description: ''
+gutenberg_issued: '2008-04-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25231'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Tang dynasty, 618-907'
+- !lcc 'PL'
+title: 遊仙窟
+url: http://www.gutenberg.org/ebooks/25231
